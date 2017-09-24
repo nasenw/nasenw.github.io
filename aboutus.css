@@ -1,0 +1,99 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+  html {
+    height: 100%;
+    background-color: #FDFF86;
+}
+
+  body {
+     background-color: #FDFF86;
+     width: auto;
+     height: 100%;
+     margin: 0;
+  }
+
+  header {
+      background-color: #FF7C0D;
+      padding: 1px 0;
+      outline: 2px solid #000000;
+      /*margin: 1px 1px 1px 1px;*/
+      font-size: 30px;
+      display: block;
+      text-align: left;
+      width: 100%;
+
+  }
+  nav {
+      float: left;
+      width: 100%;
+      height: 63px;
+      background-color: #FAB300;
+      border: 1px solid #000;
+  }
+  nav ul {
+    background-color: #FAB300;
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+      background-color: #FAB300
+
+  }
+  nav li a {
+      display: inline-block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 100%;
+      display: block;
+      float: auto;
+      text-align: center;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+  .color1 {
+    border: 2px solid #000000;
+    background-color: #FAB300;
+    text-align: center;
+    width: 100%;
+  }
+
+  h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px #FAF6F6;
+  }
+
+  li {
+    outline: 1px solid #000;
+    background-color: #FAB300
+  }
